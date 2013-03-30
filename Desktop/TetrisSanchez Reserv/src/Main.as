@@ -27,7 +27,7 @@ package
 			addChild(elements);
 			addChild(rules);
 			
-			trace("Sscx			");
+			trace("Sx");
 			stage.focus = stage;
 			stage.addEventListener(KeyboardEvent.KEY_DOWN, rules.keyDownListener);
 			
