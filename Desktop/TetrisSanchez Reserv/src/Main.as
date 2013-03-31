@@ -27,7 +27,7 @@ package
 			addChild(elements);
 			addChild(rules);
 			
-			trace("first try!!!!!!!!!!!");
+			trace("first try!!!!!!!!!!!go go");
 			stage.focus = stage;
 			stage.addEventListener(KeyboardEvent.KEY_DOWN, rules.keyDownListener);
 			
